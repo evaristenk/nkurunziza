@@ -1,0 +1,14 @@
+{
+  "name": "evariste",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o eva/css/ --recursive"
+  },
+  "author": "Evariste",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
