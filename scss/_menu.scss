@@ -75,11 +75,12 @@
             transform: translate3d(0,0,0);
         }
        .portrait{
-        width: 400px;
-        height: 400px;
+        width: 250px;
+        height: 250px;
         background: url('../img/evariste.jpg');
         border-radius: 50%;
         border: solid 3px $secondary-color;
+        background-size: cover;
        } 
     }
     .nav-item{
